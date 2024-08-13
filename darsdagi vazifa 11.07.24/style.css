@@ -1,0 +1,29 @@
+h4{
+    text-decoration: underline;
+    color: blue;
+}
+h2{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.head{
+display: flex;
+width: auto;
+height: auto;
+padding: 10px;
+justify-content: space-between;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.img{
+    height: 200px;
+    border-radius: 20px;
+}
+.fixed{
+    padding: 10px;
+}
+.all{
+    padding-left: 20px;
+    width: 1000px;
+}
